@@ -1,0 +1,17 @@
+python-multipart
+numpy
+pandas 
+uvicorn
+fastapi
+datetime
+sklearn
+nltk
+gensim
+catboost
+ipywidgets
+ipython
+sqlalchemy
+keras
+tensorflow
+spacy
+bertopic
