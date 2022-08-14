@@ -13,8 +13,7 @@ At PayEm, we developed a machine learning model, to predict expense approval fro
 The model is being integrated into PayEm production to bring in machine learning into clients approval flows.
 
 Experience with tools:
-
--Git, Docker, FastAPI, AWS.
+- Git, Docker, FastAPI, AWS.
 - Exploratory Data Analysis
 - Feature Engineering/ Feature Extraction
 -Application of NLP techniques for text features engineering: unsupervised topic modeling from short texts, text clustering. 
